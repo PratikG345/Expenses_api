@@ -50,7 +50,7 @@ db.sqlite3
 db.sqlite3-journal
 env/
 
-
+.Expense Management api.txt
 # Database migrations (optional - only if you want to exclude migrations)
 # migrations/
 
